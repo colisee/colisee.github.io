@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+##Robin ALEXANDER
 
-You can use the [editor on GitHub](https://github.com/colisee/colisee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my homepage on GitHub.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About
 
-### Markdown
+I am 56 years old and I am living in Nyon (Switzerland). After 31 enthousiastic years working at a major luxury company, the adventure came to an end with COVID19. 
+Far from being the end of the world, I am taking advantage of this situation to renew with my software development passion and refresh my skills.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**wsaero** is my personal project. The name stands for _Aeronautical Web Service_ and the service aims at displaying the weather bulletins (METAR and TAF) at various airfields.
 
-```markdown
-Syntax highlighted code block
+Now, if you find my profile intriguing, then please have a look on [LinkedIn](https://linkedin.com/in/robin-alexander-ch)
 
-# Header 1
-## Header 2
-### Header 3
+### wsaero
 
-- Bulleted
-- List
+The inner goal of wsaero is to give me additional hands-on experience with software technology, such as:
+- Programming languages:
+  - php
+  - javascript
+- markup-related technology:
+  - xml, rss, kml
+  - xsl
+  - xslt (for output mashup and transformation)
+- web API services (REST)
+- mapping solutions (OpenStreetMap)
+- DEVOPS techniques:
+  - git & GitHub
+  - docker
+  - cloud computing 
 
-1. Numbered
-2. List
+Click [here](https://wsaero-x3rsbe6nxq-uc.a.run.app) to see the latest version of **wsaero** in action. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/colisee/colisee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can also browse the sources [here](https://github.com/colisee/wsaero)
