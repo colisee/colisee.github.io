@@ -22,7 +22,7 @@ The inner goal of wsaero is to give me additional hands-on experience with softw
   - xsl
   - xslt (for output mashup and transformation)
 - web API services (REST)
-- mapping solutions (OpenStreetMap)
+- Mapping solutions (OpenStreetMap, Leaflet.js)
 - DEVOPS techniques:
   - git & GitHub
   - docker
