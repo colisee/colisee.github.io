@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-page.title: Page title
-page.description: Page description
+title: Title
+description: Description
+author: Author
