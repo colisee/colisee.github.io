@@ -8,16 +8,16 @@ Far from being the end of the world, I am taking advantage of this situation to 
 wsaero stands for _Aeronautical Web Service_ and the service aims at retrieving and returning/displaying weather bulletins (METAR and TAF) at requested airfields.
 
 The inner goal of wsaero is to give me additional hands-on experience with software technology, such as:
-- *Web Programming* languages:
+- **Web Programming** languages:
   - php
   - javascript
-- *markup* documents :
+- **markup** documents :
   - html5, css, md
   - xml, rss, kml, xsl
   - xslt (for output mashup and transformation)
-- *REST* web services
-- *Mapping* solutions (OpenStreetMap, Leaflet.js)
-- *DEVOPS* :
+- **REST** web services
+- **Mapping** solutions (OpenStreetMap, Leaflet.js)
+- **DEVOPS** :
   - git & GitHub
   - docker
   - cloud computing 
